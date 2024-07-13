@@ -1,0 +1,9 @@
+{
+    "bind": "0.0.0.0:2000",
+    "api_key": "set to none for no api key",
+    // spotify config is optional and remove or set it to none if you don't want to use spotify
+    "spotify": {
+        "username": "spotify username",
+        "password": "spotify password"
+    }
+}
